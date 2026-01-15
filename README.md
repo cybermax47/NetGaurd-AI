@@ -1,2 +1,2 @@
 # NetGaurd-AI
-That's not the project you're looking for 
+It's not the project you're looking for 
